@@ -70,7 +70,7 @@ def main():
     full, audit = load_outputs(sig)
     with st.sidebar:
         st.header("Analiz seçimi")
-        st.caption("Tüm tarihler UTC. Paket canlı güncellenmez.")
+        st.caption("Tüm tarihler UTC. Paket canlı güncellenmez. Tarih aralığı en fazla 5 yıl olabilir.")
         default_end = AS_OF
         default_start = AS_OF - timedelta(days=7)
 
@@ -92,6 +92,9 @@ def main():
         st.caption("Kaynak: kullanıcı tarafından sağlanan 12 NASA FIRMS ZIP'i. Son paket tespiti: 09/11/2026; inceleme: 14/11/2026.")
     if not platforms or not stages:
         st.info("Analiz için en az bir platform ve işleme türü seçin.")
+        st.stop()
+    if (end - start).days > 1827:
+        st.error("Tarih aralığı en fazla 5 yıl olabilir. Başlangıç veya bitiş tarihini değiştirerek aralığı daraltın.")
         st.stop()
     try:
         filtered = filter_data(full, start, end, (west,south,east,north), platforms, stages,
