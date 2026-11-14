@@ -1,0 +1,29 @@
+[
+  {
+    "file": "docs/reference_images/veri_donemleri.png",
+    "format": "PNG",
+    "dimensions": [
+      2048,
+      445
+    ],
+    "sha256": "e7e195a5a56a809e68197b2f6a4ebbe5e78609ad04b1b51b904730eaa814a84c"
+  },
+  {
+    "file": "docs/reference_images/ornek_mimari.png",
+    "format": "PNG",
+    "dimensions": [
+      1044,
+      1316
+    ],
+    "sha256": "379b91f4053ceb1d8247839bdc7057d143519fc749f4a71856111ed6f105150e"
+  },
+  {
+    "file": "docs/reference_images/sensor_karsilastirmasi.png",
+    "format": "PNG",
+    "dimensions": [
+      2046,
+      684
+    ],
+    "sha256": "f6a8454b1a2a58788d0a367b0fac977870e3dc59633fdaed5167a7f4502c02d6"
+  }
+]

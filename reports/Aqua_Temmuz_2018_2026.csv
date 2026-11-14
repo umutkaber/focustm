@@ -1,0 +1,10 @@
+﻿platform,month,year,month_number,detection_count,status,coverage_verified,selection_partial_month,record_extent_boundary,partial_reference_year,detection_days,archive_count,nrt_count,interpretation,year_label
+Aqua,2018-07,2018,7,13,kayıt_var_kapsam_bilinmiyor,False,False,False,False,6,13,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2018
+Aqua,2019-07,2019,7,2,kayıt_var_kapsam_bilinmiyor,False,False,False,False,2,2,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2019
+Aqua,2020-07,2020,7,2,kayıt_var_kapsam_bilinmiyor,False,False,False,False,1,2,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2020
+Aqua,2021-07,2021,7,426,kayıt_var_kapsam_bilinmiyor,False,False,False,False,8,426,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2021
+Aqua,2022-07,2022,7,2,kayıt_var_kapsam_bilinmiyor,False,False,False,False,2,2,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2022
+Aqua,2023-07,2023,7,15,kayıt_var_kapsam_bilinmiyor,False,False,False,False,7,15,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2023
+Aqua,2024-07,2024,7,10,kayıt_var_kapsam_bilinmiyor,False,False,False,False,4,10,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2024
+Aqua,2025-07,2025,7,15,kayıt_var_kapsam_bilinmiyor,False,False,False,False,6,15,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2025
+Aqua,2026-07,2026,7,20,kayıt_var_kapsam_bilinmiyor,False,False,False,True,6,20,0,Tespit sayısı; gözlem kapsamı bilinmiyor,2026*

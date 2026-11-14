@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "raw_zip_checksums_passed": 12,
+  "platform_month_groups_compared": 825,
+  "total": 29640,
+  "no_missing_month_encoded_as_zero": true,
+  "examples": [
+    {
+      "platform": "Aqua",
+      "month": "2021-07",
+      "raw_count": 426,
+      "processed_count": 426
+    },
+    {
+      "platform": "Terra",
+      "month": "2021-07",
+      "raw_count": 364,
+      "processed_count": 364
+    },
+    {
+      "platform": "Suomi-NPP",
+      "month": "2021-07",
+      "raw_count": 2268,
+      "processed_count": 2268
+    },
+    {
+      "platform": "NOAA-20",
+      "month": "2021-07",
+      "raw_count": 2580,
+      "processed_count": 2580
+    },
+    {
+      "platform": "NOAA-21",
+      "month": "2026-11",
+      "raw_count": 5,
+      "processed_count": 5
+    }
+  ]
+}

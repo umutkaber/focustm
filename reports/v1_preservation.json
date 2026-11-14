@@ -1,0 +1,13 @@
+{
+  "unchanged": {
+    "core.py": true,
+    "pipeline.py": true,
+    "requirements.txt": true,
+    "requirements-dev.txt": true,
+    "data/processed/detections.csv": true,
+    "data/processed/monthly.csv": true
+  },
+  "all_12_raw_zips_unchanged": true,
+  "old_25_tests_unchanged": true,
+  "old_release_zip_unchanged": true
+}

@@ -1,0 +1,26 @@
+{
+  "identical_repeat_run": true,
+  "outputs_sha256": {
+    "data/processed/detections.csv": "f7f0bf880852a0b242089148fdb0d3e57b08939bada4559e99d9ffd3d052473b",
+    "data/processed/monthly.csv": "5c92f9d8a362fb8d2154b0c66052d2e73b29949ecd62c3a88358d0120328d2f7",
+    "reports/audit.json": "6a03a12feafc1767a2b0fcbb05843ff65b29bd89ca8781559cc082adcb7b5263",
+    "reports/provenance.csv": "1f1ae75aa0b99fd966e75f201a9a8f0136d5fa6db80f20098f21df09a5f53172",
+    "reports/overlap_pairs.csv": "e661a8889ecbb2bdc18ff06aca6b71d1162ea53a68a3e0aeacd2c6ac2319d880",
+    "reports/overlap_predictions.csv": "9fbf3326b3ec19592719bb4e20abef89b5b3b0b640985cca43cde91d4780ccfb",
+    "reports/overlap_experiment.json": "187b3e6d54b1bb70b9672316855828be719915692add442b188817bd67b3dbbb"
+  },
+  "original_downloads_equal_to_packaged_raw": [
+    "DL_FIRE_J1V-C2_847414.zip",
+    "DL_FIRE_J1V-C2_847529.zip",
+    "DL_FIRE_J1V-C2_847599.zip",
+    "DL_FIRE_J2V-C2_847415.zip",
+    "DL_FIRE_J2V-C2_847530.zip",
+    "DL_FIRE_J2V-C2_847600.zip",
+    "DL_FIRE_M-C61_847413.zip",
+    "DL_FIRE_M-C61_847528.zip",
+    "DL_FIRE_M-C61_847598.zip",
+    "DL_FIRE_SV-C2_847416.zip",
+    "DL_FIRE_SV-C2_847531.zip",
+    "DL_FIRE_SV-C2_847601.zip"
+  ]
+}

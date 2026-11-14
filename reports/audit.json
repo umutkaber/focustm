@@ -1,0 +1,1606 @@
+{
+  "reference_date": "2026-11-14",
+  "bbox": [
+    26.0,
+    36.0,
+    45.0,
+    42.0
+  ],
+  "zip_sha256": {
+    "DL_FIRE_J1V-C2_848580.zip": "deb9c279a7464f26a4a7a1cb1c4b4de144d98a4431b9e4e379ece653cfe18d20",
+    "DL_FIRE_J1V-C2_848589.zip": "8d0827841d9da84e62f1223569da23b1653a3a67cb32a7387e4ff13417c24452",
+    "DL_FIRE_J1V-C2_848593.zip": "06df60999db1c95126565791a4e9a845c7d65e45002cbe7605eb5c23414d0c67",
+    "DL_FIRE_J2V-C2_848581.zip": "ac3264d22a1133abdb264795ba1d95a8f5cc05c53bb496069a9f7f63610b33fa",
+    "DL_FIRE_J2V-C2_848590.zip": "e8051486b629779187b1f98c6b4aa105618f52c5cd8c403c4125909c1f0a713c",
+    "DL_FIRE_J2V-C2_848594.zip": "4c89a466b8ca06aa9061b98ded50be7bcedddab663b7ff1afeebe4472565c0f6",
+    "DL_FIRE_M-C61_848579.zip": "10d40cdcfd7a0e606d648268cff2ca6cb111b708cb5f2eec3b81bd64cc4d5bb9",
+    "DL_FIRE_M-C61_848588.zip": "546db8101bab9686f5572852c2ac61759ee7a9b5289b4b113a983b965e45dbe8",
+    "DL_FIRE_M-C61_848592.zip": "c1d2fe857e427394593df523c511c5063af6bde286ca537e69da4bc1ed0a1717",
+    "DL_FIRE_SV-C2_848582.zip": "5d4f8bdadc3389bdcef8602a0e2c210f959ccc8706f75434ddaed0a5fba82f37",
+    "DL_FIRE_SV-C2_848591.zip": "1d61233f8110d2a39021d60204da2d7f30fd5b6f920251a2ba30f0009dce5649",
+    "DL_FIRE_SV-C2_848595.zip": "4885755ea1472914aea17f56deb70d33e8883c908f790d75f059b9daa6855dcb"
+  },
+  "members": [
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_archive_J1V-C2_848580.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_archive_J1V-C2_848580.dbf",
+      "bytes": 88176027,
+      "sha256": "0b0d082c2388b975b729dbdd88f17753121b7daba2cd83ea0401b676b7f672d6"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_archive_J1V-C2_848580.prj",
+      "bytes": 256,
+      "sha256": "b5be241f5d5602047a7dd5b59895f47065bc20859229c8cd586a2ab41f48e6c6"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_archive_J1V-C2_848580.shp",
+      "bytes": 9532588,
+      "sha256": "57d58e96173fd548fe1ce24a2f901b77d7b5334f14805aee8a9f3a1bde570c32"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_archive_J1V-C2_848580.shx",
+      "bytes": 2723668,
+      "sha256": "767bb20e141d74516157336c6cf31d8bb9b2729a6d2f7b25b2eba15d4d2ff937"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_nrt_J1V-C2_848580.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_nrt_J1V-C2_848580.dbf",
+      "bytes": 5234545,
+      "sha256": "dc95779fa015399e77ed19e83ecc3239878d0764c966c2e481bb216ee20a7ef4"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_nrt_J1V-C2_848580.prj",
+      "bytes": 256,
+      "sha256": "b5be241f5d5602047a7dd5b59895f47065bc20859229c8cd586a2ab41f48e6c6"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_nrt_J1V-C2_848580.shp",
+      "bytes": 579364,
+      "sha256": "12bdf296fba0d4807067b04777b805de81e4df6317d326f21e319871f9f47ac1"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_nrt_J1V-C2_848580.shx",
+      "bytes": 165604,
+      "sha256": "fd8864050ea6a5efac75fad0001f699044926229ada465a09f511ac170393928"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848589.zip",
+      "member": "fire_archive_J1V-C2_848589.csv",
+      "bytes": 27316689,
+      "sha256": "5b3a3485c509b9e4a39da40536709632f7aa1aee33c14cc7293430b6273df391"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848589.zip",
+      "member": "fire_nrt_J1V-C2_848589.csv",
+      "bytes": 1721733,
+      "sha256": "f277059f252839fc84d62ef039adc5b6e528687fca0430c36d1b2b5565029ff8"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848589.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848593.zip",
+      "member": "fire_archive_J1V-C2_848593.json",
+      "bytes": 141706420,
+      "sha256": "ccf9602afbdaa393337a9843676d50474faab3d29b3a82847ddc0c80e1f72255"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848593.zip",
+      "member": "fire_nrt_J1V-C2_848593.json",
+      "bytes": 8279709,
+      "sha256": "a33f6c0f8f6ee7f244f672b62b898d699b72e4e147cb7ef686f69a527b3f46e8"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848593.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_archive_J2V-C2_848581.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_archive_J2V-C2_848581.dbf",
+      "bytes": 35499312,
+      "sha256": "0eaf804e1b198e3e4a97777a927d71524751732c9692a914cd2f7ff609f53c1a"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_archive_J2V-C2_848581.prj",
+      "bytes": 256,
+      "sha256": "b5be241f5d5602047a7dd5b59895f47065bc20859229c8cd586a2ab41f48e6c6"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_archive_J2V-C2_848581.shp",
+      "bytes": 3837808,
+      "sha256": "f7c600f376c264902e262563e65d1d5cef2cf66b5d46485638ff99a6c6597ac9"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_archive_J2V-C2_848581.shx",
+      "bytes": 1096588,
+      "sha256": "5cf7ef5bc517803626e056153aa6e6186044a260f79e18a3a80a56f9d319a3cf"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_nrt_J2V-C2_848581.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_nrt_J2V-C2_848581.dbf",
+      "bytes": 4931957,
+      "sha256": "f2a0d7e48085844e9019053e2d0a8c5a90584ddc1d0ac3f7273b78cce22f24ae"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_nrt_J2V-C2_848581.prj",
+      "bytes": 256,
+      "sha256": "b5be241f5d5602047a7dd5b59895f47065bc20859229c8cd586a2ab41f48e6c6"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_nrt_J2V-C2_848581.shp",
+      "bytes": 545876,
+      "sha256": "77bdac1dbc76299aa45fae6b214db9a2717ae3b7d106a9f0789fd71a70336bb8"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_nrt_J2V-C2_848581.shx",
+      "bytes": 156036,
+      "sha256": "324437249656226a9dc9dcf01f8fb64f76309048ac7dfbc1325c3f29d3c008a1"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848590.zip",
+      "member": "fire_archive_J2V-C2_848590.csv",
+      "bytes": 10998859,
+      "sha256": "2ff70a23ec686e3a28602d1dfa7e26d46cbd7a81f7e96588038c652a3f7593a8"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848590.zip",
+      "member": "fire_nrt_J2V-C2_848590.csv",
+      "bytes": 1623063,
+      "sha256": "8ebeb7091a975d216d1ef0901d0d3a98c45fbce7c99f1a18ff140409388ff812"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848590.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848594.zip",
+      "member": "fire_archive_J2V-C2_848594.json",
+      "bytes": 57051230,
+      "sha256": "a5733743fe20470747cb3cd66ee57215566260d82e19d3e199fb74ca4c0334da"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848594.zip",
+      "member": "fire_nrt_J2V-C2_848594.json",
+      "bytes": 7801907,
+      "sha256": "58dbcc5a8321f348af2ddf20d688c07618de6a55b10b8dfefc2d3f43d4714c1d"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848594.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_archive_M-C61_848579.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_archive_M-C61_848579.dbf",
+      "bytes": 69450723,
+      "sha256": "142afa1e71c7662b18399eff9b30636bf298c0f351b2dced602654ced495efd7"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_archive_M-C61_848579.prj",
+      "bytes": 256,
+      "sha256": "b5be241f5d5602047a7dd5b59895f47065bc20859229c8cd586a2ab41f48e6c6"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_archive_M-C61_848579.shp",
+      "bytes": 7202344,
+      "sha256": "aafe0faca24afba801a7adf79c366575d513ada39789294acf50fe9faee97636"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_archive_M-C61_848579.shx",
+      "bytes": 2057884,
+      "sha256": "e876d4e963fa691ae70515c38318acf9febce1e91edf53c79a4cf68f6c0adc26"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_nrt_M-C61_848579.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_nrt_M-C61_848579.dbf",
+      "bytes": 700661,
+      "sha256": "c861e61e0c6a983deaf0bbf8d35c0068450469f1b16aea372477a8abf5a7c6ba"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_nrt_M-C61_848579.prj",
+      "bytes": 256,
+      "sha256": "b5be241f5d5602047a7dd5b59895f47065bc20859229c8cd586a2ab41f48e6c6"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_nrt_M-C61_848579.shp",
+      "bytes": 75504,
+      "sha256": "17e87071e51c0312dd6e52dc62c967ccda419b968341933e7e8c32a591ade044"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_nrt_M-C61_848579.shx",
+      "bytes": 21644,
+      "sha256": "f4188787cc03a242a848dad18efd401e5e67ec244fadde29990fe97e151d4d1d"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848588.zip",
+      "member": "fire_archive_M-C61_848588.csv",
+      "bytes": 20139279,
+      "sha256": "f6c5f497c561d67adac7b90732c4fe5fc3b6cba11907909b993dcda43754fa7f"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848588.zip",
+      "member": "fire_nrt_M-C61_848588.csv",
+      "bytes": 231188,
+      "sha256": "d6347553f1971d1e287a2ca4216c3669ceb54ee1b4c812517f3f3d925aac52cd"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848588.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848592.zip",
+      "member": "fire_archive_M-C61_848592.json",
+      "bytes": 106566082,
+      "sha256": "fe86dbb9ed5e90d84156a2c18673362fc1522ca4521d58eb9c3b57410ee1a7bc"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848592.zip",
+      "member": "fire_nrt_M-C61_848592.json",
+      "bytes": 1084749,
+      "sha256": "f460f40f68aadd9369be4919fd9098773405ce0d9c5be189f8c24a743a9cf5be"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848592.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_archive_SV-C2_848582.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_archive_SV-C2_848582.dbf",
+      "bytes": 160320218,
+      "sha256": "5c788fc33a174d5f8909a433ea983a46ece6f46a4576e335df8db173dce784ff"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_archive_SV-C2_848582.prj",
+      "bytes": 256,
+      "sha256": "b5be241f5d5602047a7dd5b59895f47065bc20859229c8cd586a2ab41f48e6c6"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_archive_SV-C2_848582.shp",
+      "bytes": 17331960,
+      "sha256": "0b80aedbb150442ba1aa043acf1f53380780cfce81b0f201ba3d0b09716f779c"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_archive_SV-C2_848582.shx",
+      "bytes": 4952060,
+      "sha256": "09dbf9825451b7e2bcee57788afd46d7ef07938b0d4ae2d4707862276cf0f3ae"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_nrt_SV-C2_848582.cpg",
+      "bytes": 5,
+      "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_nrt_SV-C2_848582.dbf",
+      "bytes": 4706281,
+      "sha256": "5f7764ac994e2fdc4d6032f94335be0acfef96dd310974e4ccc9dc89a84bebb6"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_nrt_SV-C2_848582.prj",
+      "bytes": 256,
+      "sha256": "b5be241f5d5602047a7dd5b59895f47065bc20859229c8cd586a2ab41f48e6c6"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_nrt_SV-C2_848582.shp",
+      "bytes": 520900,
+      "sha256": "d6353a201f3949f9c1df6ac6c16331b843c1395de82e6271ed595ea979e70c5f"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_nrt_SV-C2_848582.shx",
+      "bytes": 148900,
+      "sha256": "2a83437e365c917915472de506c5cf9a77677da5bc411863cc7438f16cf38074"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848591.zip",
+      "member": "fire_archive_SV-C2_848591.csv",
+      "bytes": 49658613,
+      "sha256": "f6d229f59979174e7daa27fcd005b9f39ffd712e93be156f568798b62a5a42cc"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848591.zip",
+      "member": "fire_nrt_SV-C2_848591.csv",
+      "bytes": 1548592,
+      "sha256": "762c34f88e1a0e0c59a5163bf2559ddd6fd82422d704e72bd844eae7034f64c2"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848591.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848595.zip",
+      "member": "fire_archive_SV-C2_848595.json",
+      "bytes": 257640808,
+      "sha256": "ebda26797a615b171da22aa6e541c6c533153fbd5100f79554b620460e294537"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848595.zip",
+      "member": "fire_nrt_SV-C2_848595.json",
+      "bytes": 7444672,
+      "sha256": "2bdf0e9f5842b7ca651035404f6ca441e973be122bba45eb5a6a4d781daf7ad1"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848595.zip",
+      "member": "Readme.txt",
+      "bytes": 89,
+      "sha256": "850e5eb42fa71907f2b0c8049f1017b7cea7704119438386902e2ff803e7bfba"
+    }
+  ],
+  "inventory": [
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_archive_J1V-C2_848580.shp",
+      "format": "shp",
+      "product": "J1V-C2",
+      "processing": "archive",
+      "rows": 340446,
+      "valid_rows": 340446,
+      "unique_rows": 340446,
+      "first_date": "2018-04-01",
+      "last_date": "2026-07-31",
+      "columns": [
+        "LATITUDE",
+        "LONGITUDE",
+        "BRIGHTNESS",
+        "SCAN",
+        "TRACK",
+        "ACQ_DATE",
+        "ACQ_TIME",
+        "SATELLITE",
+        "INSTRUMENT",
+        "CONFIDENCE",
+        "VERSION",
+        "BRIGHT_T31",
+        "FRP",
+        "DAYNIGHT",
+        "TYPE"
+      ],
+      "platforms": [
+        "NOAA-20"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "0afe840ca68fd98fc2989d6683a57242cb0bdde4941c2bc000bd3c4d308a5c3e",
+      "geometry_errors": 0,
+      "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848580.zip",
+      "member": "fire_nrt_J1V-C2_848580.shp",
+      "format": "shp",
+      "product": "J1V-C2",
+      "processing": "nrt",
+      "rows": 20688,
+      "valid_rows": 20688,
+      "unique_rows": 20688,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "LATITUDE",
+        "LONGITUDE",
+        "BRIGHTNESS",
+        "SCAN",
+        "TRACK",
+        "ACQ_DATE",
+        "ACQ_TIME",
+        "SATELLITE",
+        "INSTRUMENT",
+        "CONFIDENCE",
+        "VERSION",
+        "BRIGHT_T31",
+        "FRP",
+        "DAYNIGHT"
+      ],
+      "platforms": [
+        "NOAA-20"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "cc20f728355b0b0d4f81b751b38f2a9107e146976f7605bd6cfac7a8d65709ad",
+      "geometry_errors": 0,
+      "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848589.zip",
+      "member": "fire_archive_J1V-C2_848589.csv",
+      "format": "csv",
+      "product": "J1V-C2",
+      "processing": "archive",
+      "rows": 340446,
+      "valid_rows": 340446,
+      "unique_rows": 340446,
+      "first_date": "2018-04-01",
+      "last_date": "2026-07-31",
+      "columns": [
+        "latitude",
+        "longitude",
+        "brightness",
+        "scan",
+        "track",
+        "acq_date",
+        "acq_time",
+        "satellite",
+        "instrument",
+        "confidence",
+        "version",
+        "bright_t31",
+        "frp",
+        "daynight",
+        "type"
+      ],
+      "platforms": [
+        "NOAA-20"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "0afe840ca68fd98fc2989d6683a57242cb0bdde4941c2bc000bd3c4d308a5c3e",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848589.zip",
+      "member": "fire_nrt_J1V-C2_848589.csv",
+      "format": "csv",
+      "product": "J1V-C2",
+      "processing": "nrt",
+      "rows": 20688,
+      "valid_rows": 20688,
+      "unique_rows": 20688,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "latitude",
+        "longitude",
+        "brightness",
+        "scan",
+        "track",
+        "acq_date",
+        "acq_time",
+        "satellite",
+        "instrument",
+        "confidence",
+        "version",
+        "bright_t31",
+        "frp",
+        "daynight"
+      ],
+      "platforms": [
+        "NOAA-20"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "cc20f728355b0b0d4f81b751b38f2a9107e146976f7605bd6cfac7a8d65709ad",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848593.zip",
+      "member": "fire_archive_J1V-C2_848593.json",
+      "format": "json",
+      "product": "J1V-C2",
+      "processing": "archive",
+      "rows": 340446,
+      "valid_rows": 340446,
+      "unique_rows": 340446,
+      "first_date": "2018-04-01",
+      "last_date": "2026-07-31",
+      "columns": [
+        "acq_date",
+        "acq_time",
+        "bright_t31",
+        "brightness",
+        "confidence",
+        "daynight",
+        "frp",
+        "instrument",
+        "latitude",
+        "longitude",
+        "satellite",
+        "scan",
+        "track",
+        "type",
+        "version"
+      ],
+      "platforms": [
+        "NOAA-20"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "0afe840ca68fd98fc2989d6683a57242cb0bdde4941c2bc000bd3c4d308a5c3e",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J1V-C2_848593.zip",
+      "member": "fire_nrt_J1V-C2_848593.json",
+      "format": "json",
+      "product": "J1V-C2",
+      "processing": "nrt",
+      "rows": 20688,
+      "valid_rows": 20688,
+      "unique_rows": 20688,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "acq_date",
+        "acq_time",
+        "bright_t31",
+        "brightness",
+        "confidence",
+        "daynight",
+        "frp",
+        "instrument",
+        "latitude",
+        "longitude",
+        "satellite",
+        "scan",
+        "track",
+        "version"
+      ],
+      "platforms": [
+        "NOAA-20"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "cc20f728355b0b0d4f81b751b38f2a9107e146976f7605bd6cfac7a8d65709ad",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_archive_J2V-C2_848581.shp",
+      "format": "shp",
+      "product": "J2V-C2",
+      "processing": "archive",
+      "rows": 137061,
+      "valid_rows": 137061,
+      "unique_rows": 137061,
+      "first_date": "2023-03-01",
+      "last_date": "2026-07-31",
+      "columns": [
+        "LATITUDE",
+        "LONGITUDE",
+        "BRIGHTNESS",
+        "SCAN",
+        "TRACK",
+        "ACQ_DATE",
+        "ACQ_TIME",
+        "SATELLITE",
+        "INSTRUMENT",
+        "CONFIDENCE",
+        "VERSION",
+        "BRIGHT_T31",
+        "FRP",
+        "DAYNIGHT",
+        "TYPE"
+      ],
+      "platforms": [
+        "NOAA-21"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "9f130c13e93c3f240dd7ff0d944816388c34c47a6a7afbee7c940e30b0b6b8f5",
+      "geometry_errors": 0,
+      "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848581.zip",
+      "member": "fire_nrt_J2V-C2_848581.shp",
+      "format": "shp",
+      "product": "J2V-C2",
+      "processing": "nrt",
+      "rows": 19492,
+      "valid_rows": 19492,
+      "unique_rows": 19492,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "LATITUDE",
+        "LONGITUDE",
+        "BRIGHTNESS",
+        "SCAN",
+        "TRACK",
+        "ACQ_DATE",
+        "ACQ_TIME",
+        "SATELLITE",
+        "INSTRUMENT",
+        "CONFIDENCE",
+        "VERSION",
+        "BRIGHT_T31",
+        "FRP",
+        "DAYNIGHT"
+      ],
+      "platforms": [
+        "NOAA-21"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "2141629787685c69e48a01f68dcf81519ff1312461943ad0740d1fb7e9535655",
+      "geometry_errors": 0,
+      "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848590.zip",
+      "member": "fire_archive_J2V-C2_848590.csv",
+      "format": "csv",
+      "product": "J2V-C2",
+      "processing": "archive",
+      "rows": 137061,
+      "valid_rows": 137061,
+      "unique_rows": 137061,
+      "first_date": "2023-03-01",
+      "last_date": "2026-07-31",
+      "columns": [
+        "latitude",
+        "longitude",
+        "brightness",
+        "scan",
+        "track",
+        "acq_date",
+        "acq_time",
+        "satellite",
+        "instrument",
+        "confidence",
+        "version",
+        "bright_t31",
+        "frp",
+        "daynight",
+        "type"
+      ],
+      "platforms": [
+        "NOAA-21"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "9f130c13e93c3f240dd7ff0d944816388c34c47a6a7afbee7c940e30b0b6b8f5",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848590.zip",
+      "member": "fire_nrt_J2V-C2_848590.csv",
+      "format": "csv",
+      "product": "J2V-C2",
+      "processing": "nrt",
+      "rows": 19492,
+      "valid_rows": 19492,
+      "unique_rows": 19492,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "latitude",
+        "longitude",
+        "brightness",
+        "scan",
+        "track",
+        "acq_date",
+        "acq_time",
+        "satellite",
+        "instrument",
+        "confidence",
+        "version",
+        "bright_t31",
+        "frp",
+        "daynight"
+      ],
+      "platforms": [
+        "NOAA-21"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "2141629787685c69e48a01f68dcf81519ff1312461943ad0740d1fb7e9535655",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848594.zip",
+      "member": "fire_archive_J2V-C2_848594.json",
+      "format": "json",
+      "product": "J2V-C2",
+      "processing": "archive",
+      "rows": 137061,
+      "valid_rows": 137061,
+      "unique_rows": 137061,
+      "first_date": "2023-03-01",
+      "last_date": "2026-07-31",
+      "columns": [
+        "acq_date",
+        "acq_time",
+        "bright_t31",
+        "brightness",
+        "confidence",
+        "daynight",
+        "frp",
+        "instrument",
+        "latitude",
+        "longitude",
+        "satellite",
+        "scan",
+        "track",
+        "type",
+        "version"
+      ],
+      "platforms": [
+        "NOAA-21"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "9f130c13e93c3f240dd7ff0d944816388c34c47a6a7afbee7c940e30b0b6b8f5",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_J2V-C2_848594.zip",
+      "member": "fire_nrt_J2V-C2_848594.json",
+      "format": "json",
+      "product": "J2V-C2",
+      "processing": "nrt",
+      "rows": 19492,
+      "valid_rows": 19492,
+      "unique_rows": 19492,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "acq_date",
+        "acq_time",
+        "bright_t31",
+        "brightness",
+        "confidence",
+        "daynight",
+        "frp",
+        "instrument",
+        "latitude",
+        "longitude",
+        "satellite",
+        "scan",
+        "track",
+        "version"
+      ],
+      "platforms": [
+        "NOAA-21"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "2141629787685c69e48a01f68dcf81519ff1312461943ad0740d1fb7e9535655",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_archive_M-C61_848579.shp",
+      "format": "shp",
+      "product": "M-C61",
+      "processing": "archive",
+      "rows": 257223,
+      "valid_rows": 257223,
+      "unique_rows": 257223,
+      "first_date": "2000-11-02",
+      "last_date": "2026-08-31",
+      "columns": [
+        "LATITUDE",
+        "LONGITUDE",
+        "BRIGHTNESS",
+        "SCAN",
+        "TRACK",
+        "ACQ_DATE",
+        "ACQ_TIME",
+        "SATELLITE",
+        "INSTRUMENT",
+        "CONFIDENCE",
+        "VERSION",
+        "BRIGHT_T31",
+        "FRP",
+        "DAYNIGHT",
+        "TYPE"
+      ],
+      "platforms": [
+        "Aqua",
+        "Terra"
+      ],
+      "versions": [
+        "6.03",
+        "61.03"
+      ],
+      "canonical_sha256": "4fda6f6ebbfcbbe0fa3582b799e24b6fe431205256871f1327c7211d6286e508",
+      "geometry_errors": 0,
+      "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848579.zip",
+      "member": "fire_nrt_M-C61_848579.shp",
+      "format": "shp",
+      "product": "M-C61",
+      "processing": "nrt",
+      "rows": 2693,
+      "valid_rows": 2693,
+      "unique_rows": 2693,
+      "first_date": "2026-09-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "LATITUDE",
+        "LONGITUDE",
+        "BRIGHTNESS",
+        "SCAN",
+        "TRACK",
+        "ACQ_DATE",
+        "ACQ_TIME",
+        "SATELLITE",
+        "INSTRUMENT",
+        "CONFIDENCE",
+        "VERSION",
+        "BRIGHT_T31",
+        "FRP",
+        "DAYNIGHT"
+      ],
+      "platforms": [
+        "Aqua",
+        "Terra"
+      ],
+      "versions": [
+        "6.1NRT"
+      ],
+      "canonical_sha256": "22fc19c8893dc8398af6d2c4b8513050ddb6feadfcf2cdc00beaf0cb0ce2e886",
+      "geometry_errors": 0,
+      "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848588.zip",
+      "member": "fire_archive_M-C61_848588.csv",
+      "format": "csv",
+      "product": "M-C61",
+      "processing": "archive",
+      "rows": 257223,
+      "valid_rows": 257223,
+      "unique_rows": 257223,
+      "first_date": "2000-11-02",
+      "last_date": "2026-08-31",
+      "columns": [
+        "latitude",
+        "longitude",
+        "brightness",
+        "scan",
+        "track",
+        "acq_date",
+        "acq_time",
+        "satellite",
+        "instrument",
+        "confidence",
+        "version",
+        "bright_t31",
+        "frp",
+        "daynight",
+        "type"
+      ],
+      "platforms": [
+        "Aqua",
+        "Terra"
+      ],
+      "versions": [
+        "6.03",
+        "61.03"
+      ],
+      "canonical_sha256": "4fda6f6ebbfcbbe0fa3582b799e24b6fe431205256871f1327c7211d6286e508",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848588.zip",
+      "member": "fire_nrt_M-C61_848588.csv",
+      "format": "csv",
+      "product": "M-C61",
+      "processing": "nrt",
+      "rows": 2693,
+      "valid_rows": 2693,
+      "unique_rows": 2693,
+      "first_date": "2026-09-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "latitude",
+        "longitude",
+        "brightness",
+        "scan",
+        "track",
+        "acq_date",
+        "acq_time",
+        "satellite",
+        "instrument",
+        "confidence",
+        "version",
+        "bright_t31",
+        "frp",
+        "daynight"
+      ],
+      "platforms": [
+        "Aqua",
+        "Terra"
+      ],
+      "versions": [
+        "6.1NRT"
+      ],
+      "canonical_sha256": "22fc19c8893dc8398af6d2c4b8513050ddb6feadfcf2cdc00beaf0cb0ce2e886",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848592.zip",
+      "member": "fire_archive_M-C61_848592.json",
+      "format": "json",
+      "product": "M-C61",
+      "processing": "archive",
+      "rows": 257223,
+      "valid_rows": 257223,
+      "unique_rows": 257223,
+      "first_date": "2000-11-02",
+      "last_date": "2026-08-31",
+      "columns": [
+        "acq_date",
+        "acq_time",
+        "bright_t31",
+        "brightness",
+        "confidence",
+        "daynight",
+        "frp",
+        "instrument",
+        "latitude",
+        "longitude",
+        "satellite",
+        "scan",
+        "track",
+        "type",
+        "version"
+      ],
+      "platforms": [
+        "Aqua",
+        "Terra"
+      ],
+      "versions": [
+        "6.03",
+        "61.03"
+      ],
+      "canonical_sha256": "4fda6f6ebbfcbbe0fa3582b799e24b6fe431205256871f1327c7211d6286e508",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_M-C61_848592.zip",
+      "member": "fire_nrt_M-C61_848592.json",
+      "format": "json",
+      "product": "M-C61",
+      "processing": "nrt",
+      "rows": 2693,
+      "valid_rows": 2693,
+      "unique_rows": 2693,
+      "first_date": "2026-09-01",
+      "last_date": "2026-11-14",
+      "columns": [
+        "acq_date",
+        "acq_time",
+        "bright_t31",
+        "brightness",
+        "confidence",
+        "daynight",
+        "frp",
+        "instrument",
+        "latitude",
+        "longitude",
+        "satellite",
+        "scan",
+        "track",
+        "version"
+      ],
+      "platforms": [
+        "Aqua",
+        "Terra"
+      ],
+      "versions": [
+        "6.1NRT"
+      ],
+      "canonical_sha256": "22fc19c8893dc8398af6d2c4b8513050ddb6feadfcf2cdc00beaf0cb0ce2e886",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_archive_SV-C2_848582.shp",
+      "format": "shp",
+      "product": "SV-C2",
+      "processing": "archive",
+      "rows": 618995,
+      "valid_rows": 618995,
+      "unique_rows": 618995,
+      "first_date": "2012-01-20",
+      "last_date": "2026-07-31",
+      "columns": [
+        "LATITUDE",
+        "LONGITUDE",
+        "BRIGHTNESS",
+        "SCAN",
+        "TRACK",
+        "ACQ_DATE",
+        "ACQ_TIME",
+        "SATELLITE",
+        "INSTRUMENT",
+        "CONFIDENCE",
+        "VERSION",
+        "BRIGHT_T31",
+        "FRP",
+        "DAYNIGHT",
+        "TYPE"
+      ],
+      "platforms": [
+        "Suomi-NPP"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "717a22e1d7297092a8604fde77a519cac52a0b2ec16e7c76093d5d8c2f9be1ab",
+      "geometry_errors": 0,
+      "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848582.zip",
+      "member": "fire_nrt_SV-C2_848582.shp",
+      "format": "shp",
+      "product": "SV-C2",
+      "processing": "nrt",
+      "rows": 18600,
+      "valid_rows": 18600,
+      "unique_rows": 18600,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-02",
+      "columns": [
+        "LATITUDE",
+        "LONGITUDE",
+        "BRIGHTNESS",
+        "SCAN",
+        "TRACK",
+        "ACQ_DATE",
+        "ACQ_TIME",
+        "SATELLITE",
+        "INSTRUMENT",
+        "CONFIDENCE",
+        "VERSION",
+        "BRIGHT_T31",
+        "FRP",
+        "DAYNIGHT"
+      ],
+      "platforms": [
+        "Suomi-NPP"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "289a61db85de68da395ebca0e174a4c89957305eb4acce4e814d793269c2f6f4",
+      "geometry_errors": 0,
+      "crs": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]]",
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848591.zip",
+      "member": "fire_archive_SV-C2_848591.csv",
+      "format": "csv",
+      "product": "SV-C2",
+      "processing": "archive",
+      "rows": 618995,
+      "valid_rows": 618995,
+      "unique_rows": 618995,
+      "first_date": "2012-01-20",
+      "last_date": "2026-07-31",
+      "columns": [
+        "latitude",
+        "longitude",
+        "brightness",
+        "scan",
+        "track",
+        "acq_date",
+        "acq_time",
+        "satellite",
+        "instrument",
+        "confidence",
+        "version",
+        "bright_t31",
+        "frp",
+        "daynight",
+        "type"
+      ],
+      "platforms": [
+        "Suomi-NPP"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "717a22e1d7297092a8604fde77a519cac52a0b2ec16e7c76093d5d8c2f9be1ab",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848591.zip",
+      "member": "fire_nrt_SV-C2_848591.csv",
+      "format": "csv",
+      "product": "SV-C2",
+      "processing": "nrt",
+      "rows": 18600,
+      "valid_rows": 18600,
+      "unique_rows": 18600,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-02",
+      "columns": [
+        "latitude",
+        "longitude",
+        "brightness",
+        "scan",
+        "track",
+        "acq_date",
+        "acq_time",
+        "satellite",
+        "instrument",
+        "confidence",
+        "version",
+        "bright_t31",
+        "frp",
+        "daynight"
+      ],
+      "platforms": [
+        "Suomi-NPP"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "289a61db85de68da395ebca0e174a4c89957305eb4acce4e814d793269c2f6f4",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848595.zip",
+      "member": "fire_archive_SV-C2_848595.json",
+      "format": "json",
+      "product": "SV-C2",
+      "processing": "archive",
+      "rows": 618995,
+      "valid_rows": 618995,
+      "unique_rows": 618995,
+      "first_date": "2012-01-20",
+      "last_date": "2026-07-31",
+      "columns": [
+        "acq_date",
+        "acq_time",
+        "bright_t31",
+        "brightness",
+        "confidence",
+        "daynight",
+        "frp",
+        "instrument",
+        "latitude",
+        "longitude",
+        "satellite",
+        "scan",
+        "track",
+        "type",
+        "version"
+      ],
+      "platforms": [
+        "Suomi-NPP"
+      ],
+      "versions": [
+        "2"
+      ],
+      "canonical_sha256": "717a22e1d7297092a8604fde77a519cac52a0b2ec16e7c76093d5d8c2f9be1ab",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    },
+    {
+      "zip": "DL_FIRE_SV-C2_848595.zip",
+      "member": "fire_nrt_SV-C2_848595.json",
+      "format": "json",
+      "product": "SV-C2",
+      "processing": "nrt",
+      "rows": 18600,
+      "valid_rows": 18600,
+      "unique_rows": 18600,
+      "first_date": "2026-08-01",
+      "last_date": "2026-11-02",
+      "columns": [
+        "acq_date",
+        "acq_time",
+        "bright_t31",
+        "brightness",
+        "confidence",
+        "daynight",
+        "frp",
+        "instrument",
+        "latitude",
+        "longitude",
+        "satellite",
+        "scan",
+        "track",
+        "version"
+      ],
+      "platforms": [
+        "Suomi-NPP"
+      ],
+      "versions": [
+        "2.0NRT"
+      ],
+      "canonical_sha256": "289a61db85de68da395ebca0e174a4c89957305eb4acce4e814d793269c2f6f4",
+      "geometry_errors": 0,
+      "crs": null,
+      "readme": "To view Readme.txt please visit https://firms.modaps.eosdis.nasa.gov/download/Readme.txt\n"
+    }
+  ],
+  "format_equivalence": [
+    {
+      "product": "J1V-C2",
+      "processing": "archive",
+      "formats": [
+        "csv",
+        "json",
+        "shp"
+      ],
+      "copies": 3,
+      "exact_equal": true,
+      "rows": 340446
+    },
+    {
+      "product": "J1V-C2",
+      "processing": "nrt",
+      "formats": [
+        "csv",
+        "json",
+        "shp"
+      ],
+      "copies": 3,
+      "exact_equal": true,
+      "rows": 20688
+    },
+    {
+      "product": "J2V-C2",
+      "processing": "archive",
+      "formats": [
+        "csv",
+        "json",
+        "shp"
+      ],
+      "copies": 3,
+      "exact_equal": true,
+      "rows": 137061
+    },
+    {
+      "product": "J2V-C2",
+      "processing": "nrt",
+      "formats": [
+        "csv",
+        "json",
+        "shp"
+      ],
+      "copies": 3,
+      "exact_equal": true,
+      "rows": 19492
+    },
+    {
+      "product": "M-C61",
+      "processing": "archive",
+      "formats": [
+        "csv",
+        "json",
+        "shp"
+      ],
+      "copies": 3,
+      "exact_equal": true,
+      "rows": 257223
+    },
+    {
+      "product": "M-C61",
+      "processing": "nrt",
+      "formats": [
+        "csv",
+        "json",
+        "shp"
+      ],
+      "copies": 3,
+      "exact_equal": true,
+      "rows": 2693
+    },
+    {
+      "product": "SV-C2",
+      "processing": "archive",
+      "formats": [
+        "csv",
+        "json",
+        "shp"
+      ],
+      "copies": 3,
+      "exact_equal": true,
+      "rows": 618995
+    },
+    {
+      "product": "SV-C2",
+      "processing": "nrt",
+      "formats": [
+        "csv",
+        "json",
+        "shp"
+      ],
+      "copies": 3,
+      "exact_equal": true,
+      "rows": 18600
+    }
+  ],
+  "physical_rows": 4245594,
+  "canonical_records": 1415198,
+  "duplicate_copies_removed": 2830396,
+  "archive_superseded_nrt_ids": [],
+  "rejected": [],
+  "coverage_verified": false,
+  "download_request_metadata_available": false,
+  "out_of_bbox": 1629,
+  "platform_summary": [
+    {
+      "platform": "Aqua",
+      "processing": "archive",
+      "rows": 121332,
+      "first": "2002-07-04T11:05:00+00:00",
+      "last": "2026-08-31T12:45:00+00:00",
+      "detection_days": 6823,
+      "positive_months": 290,
+      "type_counts": {
+        "0": 113763,
+        "2": 7512,
+        "3": 57
+      }
+    },
+    {
+      "platform": "Aqua",
+      "processing": "nrt",
+      "rows": 1685,
+      "first": "2026-09-01T13:21:00+00:00",
+      "last": "2026-11-14T12:42:00+00:00",
+      "detection_days": 64,
+      "positive_months": 3,
+      "type_counts": {
+        "<NA>": 1685
+      }
+    },
+    {
+      "platform": "NOAA-20",
+      "processing": "archive",
+      "rows": 340146,
+      "first": "2018-04-01T09:34:00+00:00",
+      "last": "2026-07-31T23:58:00+00:00",
+      "detection_days": 3028,
+      "positive_months": 100,
+      "type_counts": {
+        "0": 234344,
+        "2": 103036,
+        "3": 2766
+      }
+    },
+    {
+      "platform": "NOAA-20",
+      "processing": "nrt",
+      "rows": 20688,
+      "first": "2026-08-01T09:37:00+00:00",
+      "last": "2026-11-14T11:53:00+00:00",
+      "detection_days": 106,
+      "positive_months": 4,
+      "type_counts": {
+        "<NA>": 20688
+      }
+    },
+    {
+      "platform": "NOAA-21",
+      "processing": "archive",
+      "rows": 136971,
+      "first": "2023-03-01T01:01:00+00:00",
+      "last": "2026-07-31T23:04:00+00:00",
+      "detection_days": 1243,
+      "positive_months": 41,
+      "type_counts": {
+        "0": 92775,
+        "2": 43297,
+        "3": 899
+      }
+    },
+    {
+      "platform": "NOAA-21",
+      "processing": "nrt",
+      "rows": 19491,
+      "first": "2026-08-01T00:43:00+00:00",
+      "last": "2026-11-14T10:57:00+00:00",
+      "detection_days": 105,
+      "positive_months": 4,
+      "type_counts": {
+        "<NA>": 19491
+      }
+    },
+    {
+      "platform": "Suomi-NPP",
+      "processing": "archive",
+      "rows": 618040,
+      "first": "2012-01-20T10:54:00+00:00",
+      "last": "2026-07-31T23:40:00+00:00",
+      "detection_days": 5219,
+      "positive_months": 175,
+      "type_counts": {
+        "0": 452102,
+        "2": 160935,
+        "3": 5003
+      }
+    },
+    {
+      "platform": "Suomi-NPP",
+      "processing": "nrt",
+      "rows": 18600,
+      "first": "2026-08-01T01:17:00+00:00",
+      "last": "2026-11-02T11:59:00+00:00",
+      "detection_days": 94,
+      "positive_months": 4,
+      "type_counts": {
+        "<NA>": 18600
+      }
+    },
+    {
+      "platform": "Terra",
+      "processing": "archive",
+      "rows": 135608,
+      "first": "2000-11-02T08:57:00+00:00",
+      "last": "2026-08-31T18:05:00+00:00",
+      "detection_days": 6878,
+      "positive_months": 310,
+      "type_counts": {
+        "0": 123878,
+        "2": 11582,
+        "3": 148
+      }
+    },
+    {
+      "platform": "Terra",
+      "processing": "nrt",
+      "rows": 1008,
+      "first": "2026-09-01T06:03:00+00:00",
+      "last": "2026-11-13T07:39:00+00:00",
+      "detection_days": 63,
+      "positive_months": 3,
+      "type_counts": {
+        "<NA>": 1008
+      }
+    }
+  ]
+}

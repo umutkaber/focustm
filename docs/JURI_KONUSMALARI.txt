@@ -1,0 +1,44 @@
+FocusTM v1.1 - Dört kişilik kısa jüri konuşması
+Toplam hedef: yaklaşık 3 dakika. Süre bir prova varsayımıdır; kronometreyle ölçülmedi.
+Kişi adları yerine gerçek ekip üyelerinin adlarını yazın. AI ve öğrenci katkılarını dürüstçe belirtin.
+
+1. KİŞİ - SORUN VE KULLANICI (yaklaşık 35 saniye)
+“Geçmiş sıcak nokta kayıtlarını tek tek okumak, hangi dönemlerde daha fazla tespit
+bulunduğunu anlamayı zorlaştırıyor. FocusTM, acil durum ve arazi yönetimi ekipleriyle
+araştırmacıların bu geçmişi incelemesi için hazırlanmış bir öğrenci prototipi.
+Tarih, bölge ve platform seçerek aylık kayıtları görebiliyoruz. Saydığımız şey
+uydu sıcak nokta tespitidir; bağımsız yangın olayını veya yanmış alanı ölçmüyoruz.”
+Ekran: ana sayfa; sayımın birimini ve 2026 kısmi yıl uyarısını gösterin.
+
+2. KİŞİ - VERİ VE ALAN (yaklaşık 40 saniye)
+“Kullanıcı tarafından sağlanan 12 NASA FIRMS ZIP'ini açtık. Aynı kayıtların CSV,
+JSON ve Shapefile kopyalarını bir kez sayınca 29.640 tespit elde ettik. S-NPP'nin
+12.140 arşiv ve 422 NRT kaydı toplamda 12.562'dir. Antalya odaklı çalışma alanımız
+29.5, 36.1, 32.8, 37.5 sınırlarıyla tanımlanan dikdörtgen; Antalya il sınırı değil.
+Haritada seçilen kayıtlar ve bu çerçeve görülüyor. Noktalar olay çevresi değildir.”
+Ekran: Veri denetimi, ardından Harita. Varsayılan altlıksız harita yeterlidir.
+
+3. KİŞİ - PYTHON VE SENSÖR FARKLARI (yaklaşık 45 saniye)
+“Python ile dosyaları okuduk, UTC tarihleri ayrıştırdık ve kaynak satırı izini
+koruyarak platform bazında aylık sayım yaptık. Kod, belge ve test hazırlığında
+AI desteği kullandık. MODIS yaklaşık 1 kilometre, VIIRS yaklaşık 375 metre nominal
+piksele sahiptir; gözlem zamanları da farklıdır. Şemayı ortaklaştırmak, bu sensör
+etkilerini düzeltmek değildir. Aqua referanslı katsayı deneyimiz yeterli kanıt
+sağlamadı; katsayıları takvime uygulamadık. Ortak renk ölçeği yalnız okumayı kolaylaştırır.”
+Ekran: Yöntem ve kaynaklar; deneyin doğrulanmadığı açıklamasını gösterin.
+
+4. KİŞİ - DEMO, SINIRLILIK VE SONRAKİ ADIM (yaklaşık 60 saniye)
+“MODIS, Aqua ve 1-31 Temmuz 2021 seçtiğimizde 426 tespit görüyoruz. Bu seçimi CSV
+veya boylam/enlem sıralı GeoJSON olarak indirebiliyoruz. Aynı ayı karşılaştır
+sekmesinde tarihlerin yıl aralığını genişletince Aqua'nın Temmuz kayıtlarını
+yıllar arasında görebiliriz. Boş hücre sıfır yangın değildir; gözlem kapsamı
+bilinmiyor. 2026 kısmi yıl. Harita bu eksikliği çözmez. Sonraki adım geçerli
+gözlem ve bulut/geçiş verisiyle küçük bir eşleşmiş karşılaştırma yapmaktır.
+Bu sürüm tam CBS veya canlı uyarı sistemi değildir.”
+Ekran: önce Aqua/Temmuz 2021 -> 426 -> Tespitler ve indirme. Ardından başlangıç
+yılını 2018, bitiş yılını 2026 yapıp Aynı ayı karşılaştır -> Aqua / Tem.
+
+Prova notu: İnternet yoksa OpenStreetMap seçeneğini açmayın. Windows kurulumu
+test edilmedi. Jüriden önce kullanılacak gerçek bilgisayarda kurulum ve demo yapın.
+Resmî teslim videosu ile canlı jüri konuşması aynı izin şartlarına sahip varsayılmamalı;
+yaş/kişi görünürlüğü ve kaynak koşullarını LISANS_VE_TESLIM_KONTROLU.txt üzerinden kontrol edin.

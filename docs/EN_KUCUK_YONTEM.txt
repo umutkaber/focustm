@@ -1,0 +1,42 @@
+FocusTM - En küçük savunulabilir sonraki yöntem
+Durum: şema ve UTC standardizasyonu tamam; sensör etkisini düzeltme HOLD.
+
+Mevcut kanıt:
+Aqua referanslı aylık ölçekleme yalnız iki platformda da pozitif arşiv kaydı olan
+aylarda sınandı. S-NPP ve NOAA-20 test hatası basit mevsimsel karşılaştırmadan kötü;
+NOAA-21 test örneği 11 ayla sınırlı. 2021 çıkarılınca katsayılar belirgin değişiyor.
+Geçerli gözlem kapsamı bilinmiyor. Bu nedenle katsayıları uygulayan ortak seri yok.
+Harita ve ortak renk ölçeği şemayı veya görünümü iyileştirir; sensör etkisini düzeltmez.
+
+Kalan kısa sürede uygulanmış tercih:
+Aynı platformun aynı UTC ayını yıllar arasında sayısal olarak göstermek. Bölge,
+arşiv/NRT ve kalite/tür seçimi sabit; aylar tam UTC ayıdır. Eksikler NA, 2026 kısmi,
+pozitif ayların bile kapsamı bilinmiyor. Oran, anomali eşiği veya olay sayısı üretilmez.
+Örnek: Aqua / Temmuz / bütün türler ve güvenler / çalışma kutusu.
+2020: 2; 2021: 426; 2022: 2 tespit. Ham CSV sayımıyla doğrulandı.
+
+Ek veri gelirse denenebilecek sınırlı pilot (henüz uygulanmadı):
+1. Aqua ile S-NPP'yi tek çift olarak seçin; kapsamı belgelenmiş küçük bir ortak
+   dönem kullanın. Arşiv sürümlerini kaydedin; NRT'yi bu pilotta karıştırmayın.
+2. Her iki platformun tam yangın/kalite/bulut maskesi, piksel geolokasyonu ve
+   edinim zamanı olan geçiş ürünlerini alın. Geçerli gözlem paydasını bu maskelerden
+   çıkarın. Bu girdiler olmadan kayıt olmayan hücreyi 0 yapmayın.
+3. Önceden ilan edilmiş ortak eş-alanlı hücre ve yakın geçiş zaman penceresiyle
+   iki platformun da geçerli gözlem yaptığı hücre-geçiş çiftlerini eşleştirin.
+   1/2/5 km ve 30/60 dakika yalnız denenebilecek TASARIM VARSAYIMLARIDIR;
+   doğrulanmış optimum veya bilimsel eşdeğerlik kuralı değildir. Piksel ayak izi
+   ve geometrik hata değerlendirilerek seçim gerekçelendirilmeli.
+4. Tespit sayısı dönüşümü yerine her eşleşmiş hücre-geçişte en az bir sıcak nokta
+   var/yok bilgisini ve pozitif uyum/uyumsuzluğu raporlayın. Çok sayıdaki negatif
+   hücreyle yüksek görünen toplam doğruluk oranını başarı iddiasına dönüştürmeyin.
+5. Eğitim/ayar dönemi ile sonraki test dönemini ayırın; hücre ve zaman penceresi
+   duyarlılığını inceleyin. Kapsam ve örneklem yeterli değilse pilot betimsel kalır.
+
+Gereken ek kanıt:
+- Tam gözlem ayak izi ve geçiş zamanları, bulut/kalite/yangın maskeleri, sürüm bilgisi.
+- Geçerli piksel/alan ve gözlem sayıları; tespit olmayan geçerli gözlemler.
+- Bağımsız, tarih/konum bilgili olay envanteri (olay düzeyinde iddia için).
+- Ek dönem/alan doğrulaması; belirsizlik ve eşleştirme duyarlılığı.
+
+Bu pilot başarılı olsa bile geriye dönük 25 yıllık ortak seri kendiliğinden doğrulanmaz.
+Burada önerilen pilot kodlanmadı veya sonuç üretmiş gibi gösterilmedi.

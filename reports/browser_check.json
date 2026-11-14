@@ -1,0 +1,15 @@
+{
+  "url": "http://127.0.0.1:8501",
+  "browser": "Codex in-app browser on macOS",
+  "default_count": 29640,
+  "tested_sensor": "MODIS",
+  "tested_platform": "Aqua",
+  "start": "2021-07-01",
+  "end": "2021-07-31",
+  "displayed_count": 426,
+  "downloaded_csv_rows": 426,
+  "download_sha256": "fa5d6a760cc28cd9ee73e69c63135d738df6c865b5421151609127c70694ca5b",
+  "download_passed": true,
+  "ui_warnings_visible": true,
+  "final_narrow_view_metrics_not_truncated": true
+}

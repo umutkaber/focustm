@@ -1,0 +1,25 @@
+{
+  "physical_rows": 88920,
+  "canonical_records": 29640,
+  "duplicate_copies_removed": 59280,
+  "out_of_bbox": 0,
+  "rejected": []
+}
+ platform processing  rows                     first                      last
+     Aqua    archive  2364 2002-07-04T11:05:00+00:00 2026-08-08T12:53:00+00:00
+     Aqua        nrt    59 2026-09-06T13:14:00+00:00 2026-10-25T13:08:00+00:00
+  NOAA-20    archive  9530 2018-04-01T11:14:00+00:00 2026-07-31T23:58:00+00:00
+  NOAA-20        nrt   369 2026-08-01T23:39:00+00:00 2026-11-09T10:06:00+00:00
+  NOAA-21    archive  2150 2023-03-02T22:44:00+00:00 2026-07-31T23:04:00+00:00
+  NOAA-21        nrt   429 2026-08-01T00:43:00+00:00 2026-11-09T10:49:00+00:00
+Suomi-NPP    archive 12140 2012-01-20T10:54:00+00:00 2026-07-31T11:19:00+00:00
+Suomi-NPP        nrt   422 2026-08-01T11:00:00+00:00 2026-10-29T23:54:00+00:00
+    Terra    archive  2124 2000-11-02T08:59:00+00:00 2026-08-29T18:24:00+00:00
+    Terra        nrt    53 2026-09-06T18:43:00+00:00 2026-10-07T06:31:00+00:00
+   target confidence  train_months  test_months  coefficient  heldout_mae  seasonal_baseline_mae  coefficient_without_2021
+Suomi-NPP        all           102           44     0.191690     5.728732               3.386364                  0.114578
+  NOAA-20        all            55           34     0.167310     4.827352               4.250000                  0.076651
+  NOAA-21        all            22           11     0.108011     3.775458               4.227273                  0.108011
+Suomi-NPP   screened           100           44     0.204950     5.914273               3.306818                  0.120678
+  NOAA-20   screened            55           34     0.178099     4.924187               4.044118                  0.079299
+  NOAA-21   screened            22           11     0.108268     3.776664               4.045455                  0.108268

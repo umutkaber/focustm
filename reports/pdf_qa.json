@@ -1,0 +1,130 @@
+{
+  "page_count": 20,
+  "rendered_pages": 20,
+  "pdf_sha256": "00d5bf5b69d0299b6cf6f3c9be2cf41557b9bfa260beb4ef4866aa9c27b324e9",
+  "body_bounds": [
+    {
+      "page": 1,
+      "body_characters": 1316,
+      "outside_body_bounds": 0,
+      "body_bottom": 606.41796896
+    },
+    {
+      "page": 2,
+      "body_characters": 1422,
+      "outside_body_bounds": 0,
+      "body_bottom": 643.91796896
+    },
+    {
+      "page": 3,
+      "body_characters": 1375,
+      "outside_body_bounds": 0,
+      "body_bottom": 637.41796896
+    },
+    {
+      "page": 4,
+      "body_characters": 1895,
+      "outside_body_bounds": 0,
+      "body_bottom": 643.91796896
+    },
+    {
+      "page": 5,
+      "body_characters": 1724,
+      "outside_body_bounds": 0,
+      "body_bottom": 649.91796896
+    },
+    {
+      "page": 6,
+      "body_characters": 1506,
+      "outside_body_bounds": 0,
+      "body_bottom": 596.4023440000001
+    },
+    {
+      "page": 7,
+      "body_characters": 1492,
+      "outside_body_bounds": 0,
+      "body_bottom": 626.41796896
+    },
+    {
+      "page": 8,
+      "body_characters": 1676,
+      "outside_body_bounds": 0,
+      "body_bottom": 608.41796896
+    },
+    {
+      "page": 9,
+      "body_characters": 1680,
+      "outside_body_bounds": 0,
+      "body_bottom": 654.9023440000001
+    },
+    {
+      "page": 10,
+      "body_characters": 1791,
+      "outside_body_bounds": 0,
+      "body_bottom": 646.91796896
+    },
+    {
+      "page": 11,
+      "body_characters": 1680,
+      "outside_body_bounds": 0,
+      "body_bottom": 626.91796896
+    },
+    {
+      "page": 12,
+      "body_characters": 1585,
+      "outside_body_bounds": 0,
+      "body_bottom": 629.9023440000001
+    },
+    {
+      "page": 13,
+      "body_characters": 1695,
+      "outside_body_bounds": 0,
+      "body_bottom": 689.41796896
+    },
+    {
+      "page": 14,
+      "body_characters": 2008,
+      "outside_body_bounds": 0,
+      "body_bottom": 534.41796896
+    },
+    {
+      "page": 15,
+      "body_characters": 1916,
+      "outside_body_bounds": 0,
+      "body_bottom": 525.41796896
+    },
+    {
+      "page": 16,
+      "body_characters": 2048,
+      "outside_body_bounds": 0,
+      "body_bottom": 704.9023440000001
+    },
+    {
+      "page": 17,
+      "body_characters": 1737,
+      "outside_body_bounds": 0,
+      "body_bottom": 641.41796896
+    },
+    {
+      "page": 18,
+      "body_characters": 1718,
+      "outside_body_bounds": 0,
+      "body_bottom": 559.41796896
+    },
+    {
+      "page": 19,
+      "body_characters": 1878,
+      "outside_body_bounds": 0,
+      "body_bottom": 562.41796896
+    },
+    {
+      "page": 20,
+      "body_characters": 1627,
+      "outside_body_bounds": 0,
+      "body_bottom": 597.41796896
+    }
+  ],
+  "text_extraction_passed": true,
+  "visual_review_passed": true,
+  "visual_review": "All 20 pages rendered and inspected as contact sheets; pages 17, 19, 20 inspected individually; no overflow, clipping or missing Turkish glyphs observed."
+}

@@ -1,0 +1,13 @@
+{
+  "zip_sha256": "d1254c08152a48aa5803f78a30cd0ab74cdffd2f11e3f70f61070da6c992958a",
+  "source_app_sha256": "0cb538f08c72ca8eac4afae422049c94791c0cfcabfdbc7e652a348bb335f7f2",
+  "source_core_sha256": "94454b7585f6b63994c158ff3aa9dd03ec84265fcf66d6597577dc04dba85426",
+  "source_tests_sha256": {
+    "conftest.py": "357e846ce8a4d2ec98b23d1bb95fc5c56632409be44f65e0a3b2be752d666a9c",
+    "test_core.py": "0a0a3a561d4814532bc5ccc68172a1b63371701347f4d1650f76fd623ae85649",
+    "test_app.py": "bbc6cf2c4081b67783bccff49186a4c60c3734d865265ae6e3705d7c9f89ce2e"
+  },
+  "existing_tests_passed": 25,
+  "fresh_zip_app_tests_passed": 2,
+  "baseline_path": "/Users/nvztkskn/Documents/ChatGPT/FOCUSTM/verification/upgrade_baseline_sy0aoi3z/focustm_fire_v1"
+}

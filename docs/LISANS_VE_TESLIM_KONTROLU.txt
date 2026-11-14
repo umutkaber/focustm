@@ -1,0 +1,55 @@
+FocusTM v1.1 - Lisans ve yarışma teslimi kontrol listesi
+Kontrol tarihi: 14/11/2026. Bu dosya ekip kararı ve resmî form kontrolü içindir.
+Proje adına lisans seçilmedi, koşul kabul edilmedi, yarışma başvurusu yapılmadı.
+
+A. PROJE LİSANSI - KARAR BEKLİYOR
+[ ] Kod/belge hak sahipleri ve gerçek öğrenci/AI katkıları kaydedilsin.
+[ ] Hak sahipleri açık kaynak lisansını seçip onaylasın; sonra LICENSE eklensin.
+    MIT veya Apache-2.0 burada seçilmiş lisans değildir. Mevcut kütüphane lisansı
+    otomatik olarak FocusTM kodunun lisansı olmaz.
+[ ] NASA veri atıfları, üçüncü taraf lisansları ve görsel izinleri ayrı korunsun.
+[ ] Kullanıcıdan gelen üç referans görselinin kamusal dağıtım izni doğrulansın;
+    bu nedenle v1.1 dağıtım paketinde bu görseller çıkarıldı, asıl v1'de korundu.
+
+B. RESMÎ YARIŞMA KAYNAĞI VE AÇIK KONTROLLER
+Kaynak: https://www.spaceappschallenge.org/legal/
+Arama dizininde başlık “2026 NASA Space Apps Participant Terms and Conditions”,
+güncelleme 07/08/2026 olarak görüldü. Doğrudan açma denemesi 502 verdi.
+Görülen metin, özgün içeriğin açık kullanımını/OSI uyumlu lisansı, üçüncü taraf
+lisans belgelerini ve bütün kaynakların atfını ister; lisans belirtilmezse NASA'nın
+Apache 2.0 ile dağıtacağını bildirir. Bu, ekibin lisans seçtiği anlamına gelmez.
+Metinde 18 yaş altının tanınabilir ad/ses/görünümünün teslimde yer almaması da yazıyor.
+Nihai formdaki güncel metin ekip tarafından yeniden okunmalı.
+
+[ ] Takımın resmî 2026 challenge adı/bağlantısı ve kayıt durumu doğrulansın.
+[ ] Yerel etkinliğin teslim saati, dosya/video sınırı, bağlantı ve dil alanları kontrol edilsin.
+[ ] AI kullanım beyanının resmî formdaki yeri/koşulu teyit edilsin; katkı kaydı eklensin.
+[ ] İsim, yaş, ses/görüntü ve üçüncü taraf materyal izinleri teslim öncesi denetlensin.
+[ ] Projenin gerçekten etkinlik kapsamındaki özgün çalışmayı temsil ettiği açıklansın.
+
+Proje teslim rehberi:
+https://www.spaceappschallenge.org/resources/project-submission-guide/
+Bu oturumda 502 hatasıyla açılamadı. Teslim saati, video süresi ve AI'ye özgü
+kesin kurallar DOĞRULANAMADI. Önceki yılların kuralları 2026 kuralı kabul edilmedi.
+Kullanıcının aktardığı jüri mesajları gereksinim kaynağıdır; resmî şartname değildir.
+
+C. HARİTA, FORMAT VE KÜTÜPHANELER
+- NASA FIRMS sıcak nokta kaynakları docs/KAYNAKLAR.md'de; bu veriler OSM verisi değildir.
+- Plotly MIT; harita motoru MapLibre GL JS BSD-3-Clause (ayrıntılı üçüncü taraf notlarıyla).
+  https://github.com/maplibre/maplibre-gl-js/blob/main/LICENSE.txt
+- İsteğe bağlı OpenStreetMap verisi ODbL; görünür © OpenStreetMap contributors atfı
+  ve lisans bağlantısı arayüzde bulunur. Karo hizmeti ayrıca kullanım politikasına tabidir.
+  https://www.openstreetmap.org/copyright
+  https://operations.osmfoundation.org/policies/tiles/
+  Toplu karo indirme, çevrimdışı karo paketi veya hizmet garantisi eklenmedi.
+- Plotly white-bg harici harita isteği yapmaz; OpenStreetMap altlığı internet ister.
+  https://plotly.com/python/tile-map-layers/
+- GeoJSON RFC 7946: WGS84, boylam/enlem; FeatureCollection içinde tespit noktaları.
+  https://www.rfc-editor.org/rfc/rfc7946
+- Python bağımlılıkları değişmedi. requirements*.txt ve licenses/ korundu.
+  MapLibre Python'a ayrı kurulmaz; Plotly'nin tarayıcı tarafı harita motorudur.
+
+D. SUNUM SINIRI
+[ ] “29.640 tespit kaydı”, “Antalya odaklı çalışma alanı”, “2026 kısmi yıl” denilsin.
+[ ] “Doğrulanmış uyumlu seri”, “orman yangını/olay adedi”, “yanmış alan”, “canlı alarm” denilmesin.
+[ ] Windows test edilmediği belirtilsin; gerçek jüri bilgisayarında ön prova yapılsın.

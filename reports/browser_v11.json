@@ -1,0 +1,21 @@
+{
+  "version": "1.1",
+  "url": "http://127.0.0.1:8503",
+  "default_count": 29640,
+  "modis_count": 4600,
+  "aqua_july_2021_count": 426,
+  "csv_rows": 426,
+  "geojson_points": 426,
+  "csv_identical_to_v1_download": true,
+  "geojson_coordinates_match_csv": true,
+  "geojson_platform_and_source_match": true,
+  "map_white_background_rendered": true,
+  "map_osm_rendered": true,
+  "map_full_record_count": 29640,
+  "comparison_aqua_july_2021": 426,
+  "original_v1_code_and_tests_preserved": true,
+  "original_core_and_pipeline_unchanged": true,
+  "windows_tested": false,
+  "network_disconnected_tested": false,
+  "webgl_browser": "Codex in-app browser on macOS arm64"
+}
