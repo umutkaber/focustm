@@ -75,7 +75,9 @@ def main():
         default_start = AS_OF - timedelta(days=7)
 
         start = st.date_input("Başlangıç (UTC)", default_start, min_value=date(2000,1,1), max_value=AS_OF, key="start")
-        end = st.date_input("Bitiş (UTC, gün dahil)", default_end, min_value=date(2000,1,1), max_value=AS_OF, key="end")
+        end_max = min(AS_OF, start + timedelta(days=1827))
+        st.session_state["end"] = min(st.session_state.get("end", default_end), end_max)
+        end = st.date_input("Bitiş (UTC, gün dahil)", min_value=date(2000,1,1), max_value=end_max, key="end")
         sensor = st.selectbox("Sensör ailesi", ["Tümü", "MODIS", "VIIRS"], key="sensor")
         available = PLATFORMS if sensor == "Tümü" else PLATFORMS[:2] if sensor == "MODIS" else PLATFORMS[2:]
         platforms = st.multiselect("Uydu / platform", available, default=available, key=f"platforms_{sensor}")
