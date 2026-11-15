@@ -185,7 +185,7 @@ Arşiv ve NRT ayrı tutulur. `type` NRT'de yoktur; arşivdeki `type=0` doğrulan
         st.info("Şema birleştirme tamamlandı; sensör etkisini düzeltme HOLD. Harita ve ortak renk ölçeği bu bilimsel açığı çözmez. Kalan kısa sürede savunulabilir adım: aynı platformun aynı UTC aylarını, mevcut filtrelerle betimsel karşılaştırmak. Sensörler arası yeni deney için eşleşen geçerli gözlem/geçiş ve bulut maskeleri gerekir; kanıtlanmamış katsayıyla ortak seri üretilmez.")
     with tabs[4]:
         st.subheader("Türkiye odaklı çalışma alanı")
-        st.caption("Nokta merkezleri gösterilir; il sınırı, yangın çevresi veya yanan alan çizilmez. Koyu çerçeve batı 29.5 / güney 36.1 / doğu 32.8 / kuzey 37.5 kutusudur. Alt bölge seçilirse ikinci çerçeve görünür.")
+        st.caption("Nokta merkezleri gösterilir; il sınırı, yangın çevresi veya yanan alan çizilmez. Koyu çerçeve batı 26 / güney 36 / doğu 45 / kuzey 42 kutusudur. Alt bölge seçilirse ikinci çerçeve görünür.")
         online_map = st.checkbox("OpenStreetMap altlığını aç (internet gerekir)", value=False, key="online_map")
         st.plotly_chart(map_figure(filtered,(west,south,east,north),online_map),width="stretch",key="detection_map")
         st.caption(f"Haritaya gönderilen tespit: {len(filtered):,}. Örnekleme yapılmaz; üst üste binen noktalar ayrı kayıtları temsil edebilir. Açılır bilgide sensör, platform, UTC zamanı, arşiv/NRT ve güven değeri bulunur.")
