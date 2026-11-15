@@ -22,7 +22,7 @@ def geojson_bytes(frame, selection):
         features.append(dict(type="Feature", id=row["record_id"],
             geometry=dict(type="Point", coordinates=[lon, lat]), properties=row))
     result = dict(type="FeatureCollection", features=features, selection=selection,
-        work_area=dict(name="Antalya odaklı çalışma alanı", bbox=list(BBOX), administrative_boundary=False),
+        work_area=dict(name="Türkiye odaklı çalışma alanı", bbox=list(BBOX), administrative_boundary=False),
         unit="satellite hotspot detections, not unique fires", harmonization="not_validated")
     if features:
         xy = [f["geometry"]["coordinates"] for f in features]
@@ -49,7 +49,7 @@ def map_figure(frame, selection_bbox=BBOX, online=False):
         west, south, east, north = bounds
         fig.add_trace(go.Scattermap(lon=[west,east,east,west,west], lat=[south,south,north,north,south],
             mode="lines", name=name, line=dict(color=color,width=width), hovertemplate=name+"<extra></extra>"))
-    box(BBOX, "Antalya odaklı çalışma alanı", "#152E46", 3)
+    box(BBOX, "Türkiye odaklı çalışma alanı", "#152E46", 3)
     if tuple(selection_bbox) != tuple(BBOX):
         box(selection_bbox, "Seçili alt bölge", "#DD6600", 2)
     fig.update_layout(map=dict(style="open-street-map" if online else "white-bg",
