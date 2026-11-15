@@ -62,7 +62,7 @@ def main():
     </style>""", unsafe_allow_html=True)
     st.caption("FOCUSTM  /  NASA FIRMS  /  ÖĞRENCİ PROTOTİPİ · v1.1")
     st.title("Yangın Aktivite Takvimi")
-    st.markdown("**Antalya odaklı çalışma alanı · 2000–2026**  \nMODIS ve VIIRS sıcak nokta kayıtlarını platform bazında keşfedin. Çalışma alanı bir dikdörtgendir; Antalya il sınırı değildir.")
+    st.markdown("**Türkiye odaklı çalışma alanı · 2000–2026**  \nMODIS ve VIIRS sıcak nokta kayıtlarını platform bazında keşfedin. Çalışma alanı bir dikdörtgendir; Antalya il sınırı değildir.")
     if not (ROOT / "data/processed/detections.parquet").exists():
         st.error("İşlenmiş veri bulunamadı. Proje klasöründe `python pipeline.py` çalıştırın.")
         st.stop()
