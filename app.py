@@ -62,7 +62,7 @@ def main():
     </style>""", unsafe_allow_html=True)
     st.caption("FOCUSTM  /  NASA FIRMS  /  ÖĞRENCİ PROTOTİPİ · v1.1")
     st.title("Yangın Aktivite Takvimi")
-    st.markdown("**Türkiye odaklı çalışma alanı · 2000–2026**  \nMODIS ve VIIRS sıcak nokta kayıtlarını platform bazında keşfedin. Çalışma alanı bir dikdörtgendir; Antalya il sınırı değildir.")
+    st.markdown("**Türkiye odaklı çalışma alanı · 2000–2026**  \nMODIS ve VIIRS sıcak nokta kayıtlarını platform bazında keşfedin. Çalışma alanı bir dikdörtgendir; Türkiye il sınırı değildir.")
     if not (ROOT / "data/processed/detections.parquet").exists():
         st.error("İşlenmiş veri bulunamadı. Proje klasöründe `python pipeline.py` çalıştırın.")
         st.stop()
@@ -86,7 +86,7 @@ def main():
         quality = st.selectbox("Güven filtresi", ["Tüm güven değerleri", "Duyarlılık: MODIS ≥30; VIIRS n/h"], key="quality")
         type_mode = st.selectbox("Sıcak nokta türü", ["Tüm türler ve bilinmeyen", "Yalnız type=0 (arşiv)"], key="type_mode")
         with st.expander("Bölge koordinatları (WGS84)"):
-            st.caption("Bu dikdörtgen Antalya idari sınırı değildir. Yalnız paket içindeki alt bölgeler seçilebilir; nokta ondalık ayracıdır.")
+            st.caption("Bu dikdörtgen Türkiye idari sınırı değildir. Yalnız paket içindeki alt bölgeler seçilebilir; nokta ondalık ayracıdır.")
             west = st.number_input("Batı / boylam", value=BBOX[0], min_value=BBOX[0], max_value=BBOX[2], step=0.01, format="%.4f", key="west")
             south = st.number_input("Güney / enlem", value=BBOX[1], min_value=BBOX[1], max_value=BBOX[3], step=0.01, format="%.4f", key="south")
             east = st.number_input("Doğu / boylam", value=BBOX[2], min_value=BBOX[0], max_value=BBOX[2], step=0.01, format="%.4f", key="east")
@@ -184,7 +184,7 @@ Arşiv ve NRT ayrı tutulur. `type` NRT'de yoktur; arşivdeki `type=0` doğrulan
         st.write("Kod taslağı, belge taslağı ve test tasarımı Codex yardımıyla hazırlandı. Sayılar paket içindeki gerçek dosyalardan Python ile üretildi. Veri bilimsel olarak bağımsız doğrulanmış veya NASA tarafından onaylanmış bir ürün olarak sunulmaz. Karar kaydı: docs/KARARLAR_AI.md.")
         st.info("Şema birleştirme tamamlandı; sensör etkisini düzeltme HOLD. Harita ve ortak renk ölçeği bu bilimsel açığı çözmez. Kalan kısa sürede savunulabilir adım: aynı platformun aynı UTC aylarını, mevcut filtrelerle betimsel karşılaştırmak. Sensörler arası yeni deney için eşleşen geçerli gözlem/geçiş ve bulut maskeleri gerekir; kanıtlanmamış katsayıyla ortak seri üretilmez.")
     with tabs[4]:
-        st.subheader("Antalya odaklı çalışma alanı")
+        st.subheader("Türkiye odaklı çalışma alanı")
         st.caption("Nokta merkezleri gösterilir; il sınırı, yangın çevresi veya yanan alan çizilmez. Koyu çerçeve batı 29.5 / güney 36.1 / doğu 32.8 / kuzey 37.5 kutusudur. Alt bölge seçilirse ikinci çerçeve görünür.")
         online_map = st.checkbox("OpenStreetMap altlığını aç (internet gerekir)", value=False, key="online_map")
         st.plotly_chart(map_figure(filtered,(west,south,east,north),online_map),width="stretch",key="detection_map")
